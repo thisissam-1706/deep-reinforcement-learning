@@ -1,0 +1,8 @@
+gymnasium
+ale-py
+torch
+torchvision
+Pillow
+matplotlib
+numpy
+tqdm
